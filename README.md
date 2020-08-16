@@ -38,23 +38,23 @@ const karan = {
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-3785%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3785%20Lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 41 Contributions in year 2020
+> 🏆 41 Contributions in the year 2020
  > 
-> 📦 Used 0 Bytes in GitHub's Storage 
+> 📦 0 Bytes Used in Github's Storage 
  > 
-> 🚫 Not opted to Hire
+> 🚫 Not Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 7 Public repositories
  > 
-> 🔑 0 Owned Private Repository 
+> 🔑 0 Private repository 
  > 
-**I'm a night 🦉** 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
@@ -63,7 +63,7 @@ const karan = {
 🌙 Night      17 commits     ███████████░░░░░░░░░░░░░░   44.74%
 
 ```
-📅 **I'm Most Productive on Tuesdays** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday       4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
@@ -77,19 +77,19 @@ Sunday       5 commits      ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Asia/Kolkata
+⌚︎ Time zone: Asia/Kolkata
 
-💬 Languages: 
+💬 Programming Languages: 
 Python                   1 hr 47 mins        ████████████████████░░░░░   81.87% 
 HTML                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.41% 
 CSS                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.11% 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33% 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
 
-🔥 Editors: 
+🔥 Code Editors: 
 PyCharmCore              2 hrs 11 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
@@ -99,12 +99,12 @@ ownphotos                3 mins              ░░░░░░░░░░░�
 travel                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27% 
 karansingh               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78%
 
-💻 Operating Systems: 
+💻 Operating System: 
 Mac                      2 hrs 11 mins       █████████████████████████   100.0%
 
 ```
 
-**I mostly code in HTML** 
+**I Mostly Code in HTML** 
 
 ```text
 HTML                     2 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
