@@ -40,19 +40,19 @@ const karan = {
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3785%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3785%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 41 Contributions in the year 2020
+> 🏆 41 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 7 Public repositories
+> 📜 7 Public Repositories
  > 
-> 🔑 0 Private repository 
+> 🔑 0 Private Repository 
  > 
 **I'm a Night 🦉** 
 
@@ -77,10 +77,10 @@ Sunday       5 commits      ███░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time zone: Asia/Kolkata
+⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
 Python                   1 hr 47 mins        ████████████████████░░░░░   81.87% 
@@ -89,7 +89,7 @@ CSS                      6 mins              █░░░░░░░░░░�
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33% 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
 
-🔥 Code Editors: 
+🔥 Editors: 
 PyCharmCore              2 hrs 11 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
