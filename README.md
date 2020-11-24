@@ -118,7 +118,7 @@ PHP                      1 repo              ██░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/karan06126/karan06126/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/karan06126/karan06126/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
