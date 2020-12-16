@@ -52,7 +52,7 @@ const karan = {
  > 
 > 📜 8 Public Repositories 
  > 
-8 Private Repository 
+> 🔑 0 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
