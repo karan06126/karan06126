@@ -38,7 +38,7 @@ const karan = {
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
@@ -107,9 +107,9 @@ Mac                      9 hrs 40 mins       ███████████�
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     6 repos             █████████████░░░░░░░░░░░░   54.55% 
+HTML                     5 repos             ███████████░░░░░░░░░░░░░░   45.45% 
+CSS                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
 Dart                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
 Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
 PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
 
@@ -121,5 +121,5 @@ PHP                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/karan06126/karan06126/master/charts/bar_graph.png) 
 
 
- Last Updated on 05/10/2021
+ Last Updated on 06/10/2021
 <!--END_SECTION:waka-->
