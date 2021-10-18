@@ -44,15 +44,15 @@ const karan = {
 
 **🐱 My GitHub Data** 
 
-> 🏆 11 Contributions in the Year 2021
+> 🏆 44 Contributions in the Year 2021
  > 
 > 📦 56.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 11 Public Repositories 
  > 
-> 🔑 3 Private Repositories  
+> 🔑 2 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -121,5 +121,5 @@ PHP                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/karan06126/karan06126/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/10/2021
+ Last Updated on 18/10/2021
 <!--END_SECTION:waka-->
