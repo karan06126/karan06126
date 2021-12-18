@@ -83,19 +83,16 @@ Sunday       8 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     1 hr 4 mins         ██████████████████░░░░░░░   71.96% 
-HTML                     22 mins             ██████░░░░░░░░░░░░░░░░░░░   24.68% 
-Properties               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.35%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Eclipse                  1 hr 29 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-BroadcastChat            1 hr 18 mins        ██████████████████████░░░   87.82% 
-BoardcastingChat         10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.18%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 29 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -116,5 +113,5 @@ PHP                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/karan06126/karan06126/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/12/2021
+ Last Updated on 18/12/2021
 <!--END_SECTION:waka-->
