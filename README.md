@@ -46,7 +46,7 @@ const karan = {
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 56.4 kB Used in GitHub's Storage 
+> 📦 56.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -113,5 +113,5 @@ PHP                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/karan06126/karan06126/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/03/2022 18:48:42 UTC
+ Last Updated on 12/03/2022 18:47:40 UTC
 <!--END_SECTION:waka-->
