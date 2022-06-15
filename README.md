@@ -14,19 +14,18 @@
 ```javascript
 const karan = {
     pronouns: "He" | "Him",
-    code: ["C", "C++", "Python", "django", "php"],
+    code: ["C", "C++", "Python", "Java"],
     askMeAbout: ["tech", "web dev", "photography"],
     technologies: {
-        mobileApp: ["Android App","Native Apps"],
         frontEnd: {
             css: ["materialize", "vuetify", "bootstrap"]
         },
         backEnd: {
             python: ["django"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite","android room"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx","Azure"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Spring Boot","Spring MVC", "IBM BPM" ,"Jenkins"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     funFact: "There are two ways to write error-free programs; only the third one works"
