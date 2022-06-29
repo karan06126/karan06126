@@ -39,7 +39,7 @@ const karan = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -84,18 +84,16 @@ Sunday       8 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     6 mins              ███████████████████████░░   93.83% 
-XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   6.17%
+Java                     2 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-Eclipse                  7 mins              █████████████████████████   100.0%
+Eclipse                  2 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-java-code                6 mins              ███████████████████████░░   93.83% 
-BroadcastChat            0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   6.17%
+BroadcastChat            2 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.0%
+Mac                      2 mins              █████████████████████████   100.0%
 
 ```
 
@@ -116,5 +114,5 @@ PHP                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/karan06126/karan06126/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/06/2022 18:55:59 UTC
+ Last Updated on 29/06/2022 18:54:17 UTC
 <!--END_SECTION:waka-->
