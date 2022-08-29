@@ -37,9 +37,9 @@ const karan = {
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -84,16 +84,18 @@ Sunday       4 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Docker                   0 secs              █████████████████████████   100.0%
+JSON                     10 mins             ████████████████████░░░░░   80.39% 
+PowerShell               2 mins              ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56%
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+VS Code                  12 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-karansingh               0 secs              █████████████████████████   100.0%
+karansingh               12 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.0%
+Mac                      12 mins             █████████████████████████   100.0%
 
 ```
 
@@ -114,5 +116,5 @@ PHP                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/karan06126/karan06126/master/charts/bar_graph.png) 
 
 
- Last Updated on 28/08/2022 18:50:31 UTC
+ Last Updated on 29/08/2022 18:52:50 UTC
 <!--END_SECTION:waka-->
