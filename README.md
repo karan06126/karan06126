@@ -55,6 +55,48 @@ const karan = {
  > 
 > 🔑 2 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+🌆 Daytime    21 commits     ███████░░░░░░░░░░░░░░░░░░   30.0% 
+🌃 Evening    22 commits     ███████░░░░░░░░░░░░░░░░░░   31.43% 
+🌙 Night      17 commits     ██████░░░░░░░░░░░░░░░░░░░   24.29%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       11 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.71% 
+Tuesday      13 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.57% 
+Wednesday    8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
+Thursday     23 commits     ████████░░░░░░░░░░░░░░░░░   32.86% 
+Friday       4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.71% 
+Saturday     7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Sunday       4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.71%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -72,5 +114,5 @@ PHP                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/karan06126/karan06126/master/charts/bar_graph.png) 
 
 
- Last Updated on 26/09/2022 18:58:46 UTC
+ Last Updated on 28/09/2022 19:03:42 UTC
 <!--END_SECTION:waka-->
