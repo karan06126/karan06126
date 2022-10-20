@@ -84,17 +84,16 @@ Sunday       4 commits      ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     51 mins             ████████████████████████░   98.57% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.43%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Eclipse                  52 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Vaccum_Cleaner_Service_Ce52 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      52 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -115,5 +114,5 @@ PHP                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/karan06126/karan06126/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/10/2022 19:06:39 UTC
+ Last Updated on 20/10/2022 19:10:03 UTC
 <!--END_SECTION:waka-->
